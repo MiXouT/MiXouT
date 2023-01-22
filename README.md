@@ -3,7 +3,7 @@
     <b>Michael Henri Muljadi</b>
     <br/>
     <br/>
-    <img alt="Michael Henri Muljadi" src="https://avatars.githubusercontent.com/u/62604618?s=400&u=1e122f1823f5c0ff36b41b2f3996e4613003f41a&v=4" height="250px"/></img>
+    <img alt="Michael Henri Muljadi" src="https://media.licdn.com/dms/image/D5603AQFCAhYfzXvaUA/profile-displayphoto-shrink_800_800/0/1674218843461?e=1680134400&v=beta&t=88UGc3oDoQqDqumOVzUyj90A14GfCxQmhHkxnLA9-Yc" height="250px"/></img>
 </h2>
 
  
