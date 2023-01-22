@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2 align="center">
-    <b>Ang Weoy Yang</b>
+    <b>Michael Henri Muljadi</b>
     <br/>
     <br/>
     <img alt="Michael Henri Muljadi" src="https://avatars.githubusercontent.com/u/62604618?s=400&u=1e122f1823f5c0ff36b41b2f3996e4613003f41a&v=4" height="250px"/></img>
