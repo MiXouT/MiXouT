@@ -3,7 +3,7 @@
     <b>Ang Weoy Yang</b>
     <br/>
     <br/>
-    <img alt="Ang Weoy Yang" src="https://avatars.githubusercontent.com/u/62604618?s=400&u=1e122f1823f5c0ff36b41b2f3996e4613003f41a&v=4" height="250px"/></img>
+    <img alt="Michael Henri Muljadi" src="https://avatars.githubusercontent.com/u/62604618?s=400&u=1e122f1823f5c0ff36b41b2f3996e4613003f41a&v=4" height="250px"/></img>
 </h2>
 
  
@@ -14,8 +14,8 @@
  
 
 
-- 👋 Hi, I’m Ang Weoy Yang.
-- 👀 I’m interested in software engineering.
+- 👋 Hi, I’m Michael Henri Muljadi.
+- 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently enrolled in BSc (Hons) in Software Engineering at Asia Pacific University (APU).
 - 💞️ I’m looking to collaborate on interesting and meaningful projects.
 
@@ -24,10 +24,10 @@
 
 ## Contact 📫
 <p>
-    <a href="mailto:weoyyang00@gmail.com">
+    <a href="michaelhenry0704@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/weoy-yang-ang/">
+    <a href="https://www.linkedin.com/in/michael-henri-muljadi-008744149/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white">
     </a>   
 </p>
